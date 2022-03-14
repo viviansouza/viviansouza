@@ -4,7 +4,7 @@
 
 - 🔭 Atualmente trabalho como Analista de Suporte. Sou administradora da Plataforma Moodle e produzo manuais para os usuários.
 - 🌱 Estou aprendendo sobre Python, Big Data, Linux e SQL.
-- Participei do Ioasys Camp na trilha de projetos aprendi sobre Scrum, Kanban, OKR, Lean, BPMN e Design Thinking.
+- Participei do Ioasys Camp na trilha de projetos. Nele aprendi sobre Scrum, Kanban, OKR, Lean, BPMN e Design Thinking.
 - Busco ser engenheira de dados.
 
 <div align="center">
