@@ -4,8 +4,8 @@
 
 - 🔭 Atualmente trabalho como Analista de Suporte. Sou administradora da Plataforma Moodle e produzo manuais para os usuários.
 - 🌱 Estou aprendendo sobre Python, Big Data, Linux e SQL.
-- Participei do Ioasys Camp na trilha de projetos. Nele aprendi sobre Scrum, Kanban, OKR, Lean, BPMN e Design Thinking.
-- Busco ser engenheira de dados.
+- Participei do Ioasys Camp na trilha de projetos. Nele aprendi sobre Scrum, Kanban, OKR, Lean, BPMN e Design Thinking com mentores que nos apresentavam casos reais como exemplo.
+- Em transição de carreira. Busco ser engenheira de dados.
 
 <div align="center">
   <a href="https://github.com/viviansouza">
