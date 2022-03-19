@@ -7,7 +7,7 @@
 - Participei do Ioasys Camp na trilha de projetos. Nele aprendi sobre Scrum, Kanban, OKR, Lean, BPMN e Design Thinking com mentores que nos apresentavam casos reais como exemplo.
 - Scrum Fundamentals Certified (ScrumStudy).
 - Participando do Bootcamp Cognizant Cloud Data Engineer na DIO.
-- Em transição de carreira. Busco ser engenheira de dados.
+- Em transição de carreira. Busco ser Engenheira de Dados.
 
 
 <div align="center">
