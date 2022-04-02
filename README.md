@@ -5,7 +5,6 @@
 - 🔭 Atualmente trabalho como Analista de Suporte. Sou administradora da Plataforma Moodle e produzo manuais/tutorias/vídeos para os usuários.
 - 🌱 Formada em Sistemas de Informação e Pós-Graduada em Educação a Distância. Estou aprendendo sobre Python, Big Data, Linux e SQL.
 - Participei do Ioasys Camp na trilha de projetos. Nele aprendi sobre Scrum, Kanban, OKR, Lean, BPMN e Design Thinking com mentores que nos apresentavam casos reais como exemplo.
-- Scrum Fundamentals Certified (ScrumStudy).
 - Certificações: Scrum Fundamentals Certified (ScrumStudy) e Fundamentos na Lei Geral de Proteção de Dados(Certiprof).
 - Em transição de carreira. Busco trabalhar na área de dados.
 
